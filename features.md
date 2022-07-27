@@ -55,3 +55,39 @@ functional needs repair - the waterpoint is operational, but needs repairs
 non functional - the waterpoint is not operational
 
 Source: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/#features_list
+
+
+### New Division Codes for Tanzania Divisions
+	Code 	Subdivision name (sw)
+	TZ-01 	Arusha 	
+	TZ-02 	Dar es Salaam 	
+	TZ-03 	Dodoma 	
+	TZ-27 	Geita 	
+	TZ-04 	Iringa 	
+	TZ-05 	Kagera 	
+	TZ-06 	Kaskazini Pemba 
+	TZ-07 	Kaskazini Unguja
+	TZ-28 	Katavi 	
+	TZ-08 	Kigoma 	
+	TZ-09 	Kilimanjaro 	
+	TZ-10 	Kusini Pemba
+	TZ-11 	Kusini Unguja 
+	TZ-12 	Lindi 	
+	TZ-26 	Manyara 	
+	TZ-13 	Mara 	
+	TZ-14 	Mbeya 	
+	TZ-15 	Mjini Magharibi 
+	TZ-16 	Morogoro 	
+	TZ-17 	Mtwara 	
+	TZ-18 	Mwanza 	
+	TZ-29 	Njombe 	
+	TZ-19 	Pwani 	Coast
+	TZ-20 	Rukwa 	
+	TZ-21 	Ruvuma 	
+	TZ-22 	Shinyanga 	
+	TZ-30 	Simiyu 	
+	TZ-23 	Singida 	
+	TZ-31 	Songwe
+	TZ-24 	Tabora 	
+	TZ-25 	Tanga
+source: https://en.wikipedia.org/wiki/ISO_3166-2:TZ
